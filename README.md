@@ -50,6 +50,14 @@ Web UI automation with **POM + CI/CD** for cross-browser validation.
 
 ---
 
+**## 📈 Career Highlights**
+🏆 Built API comparison framework for 52 segments × 75 APIs → 30% faster regression.
+📱 Designed multi-brand mobile automation suites for 9 countries.
+⚡ Integrated automation into CI/CD pipelines for faster delivery.
+
+**## 📫 Connect With Me **
+📧 Email: siva996365@gmail.com
+
 ## 📊 My Automation Workflow Diagram
 
 ```mermaid
@@ -60,12 +68,3 @@ flowchart LR
     D --> E[Execute Tests]
     E --> F[Generate Reports]
     F --> G[Analyze & Fix Issues]
-
-**## 📈 Career Highlights**
-🏆 Built API comparison framework for 52 segments × 75 APIs → 30% faster regression.
-📱 Designed multi-brand mobile automation suites for 9 countries.
-⚡ Integrated automation into CI/CD pipelines for faster delivery.
-
-**## 📫 Connect With Me **
-📧 Email: siva996365@gmail.com
-
